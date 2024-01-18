@@ -4,7 +4,7 @@
 
 ### Education
 - BSc, Data Science and Business Analytics | University of London
-- Diploma, Digital Forensics @ Temasek Polytechnic
+- Diploma, Digital Forensics | Temasek Polytechnic
 
 ### Work Experience
 **Technical Support Analyst @ Chainlink Labs (_July 2023 - Present_)**
