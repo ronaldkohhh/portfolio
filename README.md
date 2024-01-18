@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R, SQL, Solidity, Rust, Go, C++, Java
 
 ### Education
-- BSc in Data Science and Business Analytics | University of London
-- Diploma in Digital Forensics | Temasek Polytechnic
+- BSc in Data Science and Business Analytics @ University of London
+- Diploma in Digital Forensics @ Temasek Polytechnic
 
 ### Work Experience
 **Technical Support Analyst @ Chainlink Labs (_July 2023 - Present_)**
